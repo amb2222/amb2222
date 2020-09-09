@@ -17,4 +17,4 @@ C, C++, Python, SQL, Kotlin
 NumPy, Pandas, Scikit-Learn, Tensorflow, Jupyter Notebooks, Android Studio
 
 ### Reach me at
-[<img align="left" alt="amb2222 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/amb2222)
+[<img align="left" alt="amb2222 | LinkedIn" width="42px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/amb2222)
