@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Deep Learning and Algorithms. 🤣
+- 🌱 I’m currently learning Deep Learning and Algorithms.
 - 🥅 2020 Goals: Contribute more to Open Source projects and participate in Kaggle competitions
 - ⚡ Fun fact: I like Graphic Designing and watching tv series/movies
 
