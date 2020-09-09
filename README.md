@@ -18,3 +18,4 @@ NumPy, Pandas, Scikit-Learn, Tensorflow, Jupyter Notebooks, Android Studio
 
 ### Reach me at
 [<img align="left" alt="amb2222 | LinkedIn" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/1024px-Linkedin_icon.svg.png" />](https://www.linkedin.com/in/amb2222)
+[<img align="left" alt="amb2222 | WhatsApp" width="50px" src="https://png4u.com/wp-content/uploads/2020/02/Whatsapp-Logo-Icon-PNG-Android-Ios-13-1024x1024.png" />](https://wa.me/9532651810)
