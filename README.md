@@ -11,3 +11,6 @@ C, C++, Python, SQL, Kotlin
 
 #### Libraries & Tools:
 NumPy, Pandas, Scikit-Learn, Tensorflow, Jupyter Notebooks, Android Studio
+
+### Reach me at
+
