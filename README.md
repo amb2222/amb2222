@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning Deep Learning and Algorithms.
-- 🥅 2020 Goals: Contribute more to Open Source projects and participate in Kaggle competitions
-- ⚡ Fun fact: I like Graphic Designing and watching tv series/movies
+- 🥅 2021 Goals: Contribute more to Open Source projects, read more books and participate in Kaggle competitions
+- ⚡ Fun fact: I like Graphic Designing, reading books and watching tv series/movies
 
 I am an Electronics and Communication Engineering undergraduate student at Maulana Azad National Institute of Technology, Bhopal, 2021 batch. I have experience in working with differnt technologies including Data Science, Machine Learning, Deep Learning and App Development. I have worked on industry-level and real-world problems in Data Science.
 I have worked with [Innovapoint Infotech Private Limited, Pune](https://www.innovapoint.com/) as a Data Science Intern.
