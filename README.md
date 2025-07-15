@@ -33,7 +33,9 @@ I’ve led and delivered high-impact projects in microservices, serverless archi
 
 ### 📫 Reach Me
 
-[<img align="left" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/amb2222/)
-[<img align="left" alt="WhatsApp" width="30px" src="https://png4u.com/wp-content/uploads/2020/02/Whatsapp-Logo-Icon-PNG-Android-Ios-13-1024x1024.png" />](https://wa.me/9532651810)
-<img align="left" alt="Email" width="30px" src="https://cdn-icons-png.flaticon.com/512/561/561127.png" />](mailto:atalmayank27@gmail.com)
+[<img align="left" alt="LinkedIn" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/amb2222/)
+[<img align="left" alt="WhatsApp" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" />](https://wa.me/9532651810)
+[<img align="left" alt="Email" width="32px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" />](mailto:atalmayank27@gmail.com)
+
+<br><br>
 
