@@ -24,7 +24,7 @@ I’ve led and delivered high-impact projects in microservices, serverless archi
 - Django, Django Rest Framework, Flask, AWS, Git
 
 #### ☁️ Cloud & Platforms:
-- AWS (Lambda, ECS, RDS, DynamoDB), Azure (Functions, Cosmos DB)
+- AWS (S3, EC2, IAM, Lambda, ECS, RDS, DynamoDB, SQS, SNS, Cognito), Azure (Functions, Cosmos DB, Service Bus)
 
 #### 🧱 Architecture & Design:
 - Microservices, Serverless, System Design, CI/CD
@@ -33,7 +33,7 @@ I’ve led and delivered high-impact projects in microservices, serverless archi
 
 ### 📫 Reach Me
 
-[<img align="left" alt="LinkedIn" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/amb2222/)
+[<img align="left" alt="LinkedIn" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/atalbajpai2/)
 [<img align="left" alt="WhatsApp" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" />](https://wa.me/9532651810)
 [<img align="left" alt="Email" width="32px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" />](mailto:atalmayank27@gmail.com)
 
