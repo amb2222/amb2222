@@ -37,5 +37,3 @@ I’ve led and delivered high-impact projects in microservices, serverless archi
 [<img align="left" alt="WhatsApp" width="30px" src="https://png4u.com/wp-content/uploads/2020/02/Whatsapp-Logo-Icon-PNG-Android-Ios-13-1024x1024.png" />](https://wa.me/9532651810)
 <img align="left" alt="Email" width="30px" src="https://cdn-icons-png.flaticon.com/512/561/561127.png" />](mailto:atalmayank27@gmail.com)
 
----
-
